@@ -1,7 +1,5 @@
 package org.firstinspires.ftc.teamcode;
 
-
-//This is the File/Class that was supposed to be created on Day 1's practice slide.
 public class PracticeSyntax1 {
     private int stage = 0;
     protected double motorPosition = -0.3;
@@ -17,4 +15,7 @@ public class PracticeSyntax1 {
      */
 
     //Things in gray are comments, btw. They do not affect the code.
+
+
+
 }
